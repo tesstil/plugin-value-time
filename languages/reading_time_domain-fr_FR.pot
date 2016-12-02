@@ -1,0 +1,754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: estimation reading time\n"
+"POT-Creation-Date: 2016-11-27 23:06+0100\n"
+"PO-Revision-Date: 2016-11-27 23:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tess\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: themes\n"
+"X-Poedit-SearchPath-1: plugins\n"
+
+#: plugins/inc/function.php:9
+msgid "Estimation of the reading time"
+msgstr "Estimation du temps de lecture"
+
+#: plugins/inc/function.php:17 plugins/inc/function.php:59
+#: themes/little-twentysixteen/single.php:20
+msgid "Value reading time (min) "
+msgstr "Valeur temps de lecture (min) "
+
+#: plugins/inc/function.php:19
+msgid "Value in minute(s) "
+msgstr "Valeur en minute(s) "
+
+#: themes/little-twentysixteen/single.php:24
+msgid "You will take less than a minute to read the article "
+msgstr "Vous mettrez moins d'une minute pour lire l'article "
+
+#: themes/little-twentysixteen/single.php:27
+msgid "Approximate length of article reading time : "
+msgstr "Durée approximative du temps de lecture de l'article : "
+
+#: themes/little-twentysixteen/single.php:48 themes/twentyfifteen/single.php:33
+#: themes/twentyfourteen/functions.php:262 themes/twentysixteen/single.php:34
+msgid "Next"
+msgstr ""
+
+#: themes/little-twentysixteen/single.php:49 themes/twentyfifteen/single.php:34
+#: themes/twentysixteen/single.php:35
+msgid "Next post:"
+msgstr ""
+
+#: themes/little-twentysixteen/single.php:51 themes/twentyfifteen/single.php:36
+#: themes/twentyfourteen/functions.php:261 themes/twentysixteen/single.php:37
+msgid "Previous"
+msgstr ""
+
+#: themes/little-twentysixteen/single.php:52 themes/twentyfifteen/single.php:37
+#: themes/twentysixteen/single.php:38
+msgid "Previous post:"
+msgstr ""
+
+#: themes/twentyfifteen/404.php:17 themes/twentysixteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: themes/twentyfifteen/404.php:21 themes/twentyfourteen/404.php:21
+#: themes/twentysixteen/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: themes/twentyfifteen/archive.php:49 themes/twentyfifteen/index.php:46
+#: themes/twentyfifteen/search.php:38 themes/twentysixteen/archive.php:49
+#: themes/twentysixteen/index.php:46 themes/twentysixteen/search.php:37
+msgid "Previous page"
+msgstr ""
+
+#: themes/twentyfifteen/archive.php:50 themes/twentyfifteen/index.php:47
+#: themes/twentyfifteen/search.php:39 themes/twentysixteen/archive.php:50
+#: themes/twentysixteen/index.php:47 themes/twentysixteen/search.php:38
+msgid "Next page"
+msgstr ""
+
+#: themes/twentyfifteen/archive.php:51 themes/twentyfifteen/content-link.php:40
+#: themes/twentyfifteen/content-page.php:29 themes/twentyfifteen/content.php:42
+#: themes/twentyfifteen/image.php:63 themes/twentyfifteen/index.php:48
+#: themes/twentyfifteen/search.php:40 themes/twentysixteen/archive.php:51
+#: themes/twentysixteen/image.php:60 themes/twentysixteen/index.php:48
+#: themes/twentysixteen/search.php:39
+#: themes/twentysixteen/template-parts/content-page.php:27
+#: themes/twentysixteen/template-parts/content-single.php:29
+#: themes/twentysixteen/template-parts/content.php:37
+msgid "Page"
+msgstr ""
+
+#: themes/twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: themes/twentyfifteen/author-bio.php:34
+#: themes/twentysixteen/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: themes/twentyfifteen/comments.php:53 themes/twentyfourteen/comments.php:59
+#: themes/twentysixteen/comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: themes/twentyfifteen/content-link.php:31 themes/twentyfifteen/content.php:33
+#: themes/twentyfifteen/inc/template-tags.php:238
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: themes/twentyfifteen/content-link.php:36
+#: themes/twentyfifteen/content-page.php:25 themes/twentyfifteen/content.php:38
+#: themes/twentyfifteen/image.php:59 themes/twentyfourteen/content-aside.php:53
+#: themes/twentyfourteen/content-audio.php:53
+#: themes/twentyfourteen/content-gallery.php:53
+#: themes/twentyfourteen/content-image.php:53
+#: themes/twentyfourteen/content-link.php:53
+#: themes/twentyfourteen/content-page.php:22
+#: themes/twentyfourteen/content-quote.php:53
+#: themes/twentyfourteen/content-video.php:53
+#: themes/twentyfourteen/content.php:61 themes/twentyfourteen/image.php:54
+#: themes/twentysixteen/image.php:56
+#: themes/twentysixteen/template-parts/content-page.php:23
+#: themes/twentysixteen/template-parts/content-single.php:25
+#: themes/twentysixteen/template-parts/content.php:33
+msgid "Pages:"
+msgstr ""
+
+#: themes/twentyfifteen/content-link.php:56
+#: themes/twentyfifteen/content-page.php:35
+#: themes/twentyfifteen/content-search.php:28
+#: themes/twentyfifteen/content-search.php:33
+#: themes/twentyfifteen/content.php:57 themes/twentyfifteen/image.php:71
+#: themes/twentyfourteen/content-aside.php:40
+#: themes/twentyfourteen/content-audio.php:40
+#: themes/twentyfourteen/content-gallery.php:40
+#: themes/twentyfourteen/content-image.php:40
+#: themes/twentyfourteen/content-link.php:40
+#: themes/twentyfourteen/content-page.php:28
+#: themes/twentyfourteen/content-quote.php:40
+#: themes/twentyfourteen/content-video.php:40
+#: themes/twentyfourteen/content.php:42 themes/twentyfourteen/image.php:34
+#: themes/twentyfourteen/page-templates/contributors.php:35
+msgid "Edit"
+msgstr ""
+
+#: themes/twentyfifteen/content-none.php:15
+#: themes/twentyfourteen/content-none.php:12
+#: themes/twentysixteen/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: themes/twentyfifteen/content-none.php:22
+#: themes/twentyfourteen/content-none.php:18
+#: themes/twentysixteen/template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: themes/twentyfifteen/content-none.php:26
+#: themes/twentyfourteen/content-none.php:22
+#: themes/twentysixteen/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: themes/twentyfifteen/content-none.php:31
+#: themes/twentyfourteen/content-none.php:27
+#: themes/twentysixteen/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: themes/twentyfifteen/footer.php:25 themes/twentyfourteen/footer.php:21
+#: themes/twentysixteen/footer.php:51
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: themes/twentyfifteen/footer.php:25 themes/twentyfourteen/footer.php:21
+#: themes/twentysixteen/footer.php:51
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: themes/twentyfifteen/functions.php:85 themes/twentyfourteen/header.php:52
+#: themes/twentysixteen/functions.php:88
+msgid "Primary Menu"
+msgstr ""
+
+#: themes/twentyfifteen/functions.php:86 themes/twentysixteen/functions.php:89
+msgid "Social Links Menu"
+msgstr ""
+
+#: themes/twentyfifteen/functions.php:147
+msgid "Widget Area"
+msgstr ""
+
+#: themes/twentyfifteen/functions.php:149
+#: themes/twentysixteen/functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: themes/twentyfifteen/functions.php:269
+#: themes/twentysixteen/functions.php:284
+msgid "expand child menu"
+msgstr ""
+
+#: themes/twentyfifteen/functions.php:270
+#: themes/twentysixteen/functions.php:285
+msgid "collapse child menu"
+msgstr ""
+
+#: themes/twentyfifteen/header.php:26 themes/twentyfourteen/header.php:53
+#: themes/twentysixteen/header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: themes/twentyfifteen/header.php:45
+msgid "Menu and widgets"
+msgstr ""
+
+#: themes/twentyfifteen/image.php:24 themes/twentyfourteen/image.php:65
+#: themes/twentysixteen/image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#: themes/twentyfifteen/image.php:24 themes/twentyfourteen/image.php:66
+#: themes/twentysixteen/image.php:25
+msgid "Next Image"
+msgstr ""
+
+#: themes/twentyfifteen/inc/back-compat.php:37
+#: themes/twentyfifteen/inc/back-compat.php:47
+#: themes/twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:44
+#: themes/twentysixteen/inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:59
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:60
+#: themes/twentyfifteen/inc/customizer.php:76
+#: themes/twentyfifteen/inc/customizer.php:81
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:75
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:150
+#: themes/twentysixteen/inc/customizer.php:253
+msgid "Default"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:161
+#: themes/twentysixteen/inc/customizer.php:263
+msgid "Dark"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:172
+#: themes/twentysixteen/inc/customizer.php:293
+msgid "Yellow"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:183
+msgid "Pink"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:194
+msgid "Purple"
+msgstr ""
+
+#: themes/twentyfifteen/inc/customizer.php:205
+msgid "Blue"
+msgstr ""
+
+#: themes/twentyfifteen/inc/template-tags.php:23
+#: themes/twentyfourteen/comments.php:34 themes/twentyfourteen/comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: themes/twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: themes/twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: themes/twentyfifteen/inc/template-tags.php:49
+#: themes/twentysixteen/template-parts/content.php:14
+msgid "Featured"
+msgstr ""
+
+#: themes/twentyfifteen/inc/template-tags.php:123
+#: themes/twentysixteen/inc/template-tags.php:50
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: themes/twentyfifteen/search.php:18 themes/twentyfourteen/search.php:18
+#: themes/twentysixteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: themes/twentyfourteen/404.php:17
+msgid "Not Found"
+msgstr ""
+
+#: themes/twentyfourteen/archive.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: themes/twentyfourteen/archive.php:34
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: themes/twentyfourteen/archive.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: themes/twentyfourteen/archive.php:40
+#: themes/twentyfourteen/taxonomy-post_format.php:51
+msgid "Archives"
+msgstr ""
+
+#: themes/twentyfourteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: themes/twentyfourteen/category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: themes/twentyfourteen/comments.php:35 themes/twentyfourteen/comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: themes/twentyfourteen/comments.php:36 themes/twentyfourteen/comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: themes/twentyfourteen/content-aside.php:37
+#: themes/twentyfourteen/content-audio.php:37
+#: themes/twentyfourteen/content-gallery.php:37
+#: themes/twentyfourteen/content-image.php:37
+#: themes/twentyfourteen/content-link.php:37
+#: themes/twentyfourteen/content-quote.php:37
+#: themes/twentyfourteen/content-video.php:37
+#: themes/twentyfourteen/content.php:38
+#: themes/twentyfourteen/inc/widgets.php:215
+msgid "Leave a comment"
+msgstr ""
+
+#: themes/twentyfourteen/content-aside.php:37
+#: themes/twentyfourteen/content-audio.php:37
+#: themes/twentyfourteen/content-gallery.php:37
+#: themes/twentyfourteen/content-image.php:37
+#: themes/twentyfourteen/content-link.php:37
+#: themes/twentyfourteen/content-quote.php:37
+#: themes/twentyfourteen/content-video.php:37
+#: themes/twentyfourteen/content.php:38
+#: themes/twentyfourteen/inc/widgets.php:215
+msgid "1 Comment"
+msgstr ""
+
+#: themes/twentyfourteen/content-aside.php:37
+#: themes/twentyfourteen/content-audio.php:37
+#: themes/twentyfourteen/content-gallery.php:37
+#: themes/twentyfourteen/content-image.php:37
+#: themes/twentyfourteen/content-link.php:37
+#: themes/twentyfourteen/content-quote.php:37
+#: themes/twentyfourteen/content-video.php:37
+#: themes/twentyfourteen/content.php:38
+#: themes/twentyfourteen/inc/widgets.php:215
+msgid "% Comments"
+msgstr ""
+
+#: themes/twentyfourteen/content-aside.php:48
+#: themes/twentyfourteen/content-audio.php:48
+#: themes/twentyfourteen/content-gallery.php:48
+#: themes/twentyfourteen/content-image.php:48
+#: themes/twentyfourteen/content-link.php:48
+#: themes/twentyfourteen/content-quote.php:48
+#: themes/twentyfourteen/content-video.php:48
+#: themes/twentyfourteen/content.php:56
+#: themes/twentyfourteen/inc/template-tags.php:222
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:174
+msgid "Primary Sidebar"
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:176
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:183
+msgid "Content Sidebar"
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:185
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:192
+msgid "Footer Widget Area"
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:194
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: themes/twentyfourteen/functions.php:498
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: themes/twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: themes/twentyfourteen/inc/back-compat.php:37
+#: themes/twentyfourteen/inc/back-compat.php:47
+#: themes/twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:37
+msgid "Site Title Color"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:40
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:44
+#: themes/twentyfourteen/inc/customizer.php:45
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:47
+#: themes/twentyfourteen/inc/customizer.php:48
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:53
+#: themes/twentyfourteen/inc/featured-content.php:403
+msgid "Featured Content"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:54
+#: themes/twentyfourteen/inc/featured-content.php:404
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:69
+msgid "Layout"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:73
+msgid "Grid"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:74
+msgid "Slider"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:142
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:145
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:146
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: themes/twentyfourteen/inc/customizer.php:147
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: themes/twentyfourteen/inc/featured-content.php:426
+msgid "Tag Name"
+msgstr ""
+
+#: themes/twentyfourteen/inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:85
+msgid "Post navigation"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: themes/twentyfourteen/inc/template-tags.php:109
+msgid "Sticky"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:75
+#: themes/twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:76
+msgid "More images"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:79
+#: themes/twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:80
+msgid "More videos"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:83
+#: themes/twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:84
+msgid "More audio"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:87
+#: themes/twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:88
+msgid "More quotes"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:91
+#: themes/twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:92
+msgid "More links"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:95
+#: themes/twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:96
+msgid "More galleries"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:100
+#: themes/twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:101
+msgid "More asides"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:148
+#: themes/twentyfourteen/inc/widgets.php:193
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:227
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:276
+msgid "Title:"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:279
+msgid "Number of posts to show:"
+msgstr ""
+
+#: themes/twentyfourteen/inc/widgets.php:282
+msgid "Post format to show:"
+msgstr ""
+
+#: themes/twentyfourteen/tag.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: themes/twentysixteen/functions.php:156
+msgid "Sidebar"
+msgstr ""
+
+#: themes/twentysixteen/functions.php:166
+msgid "Content Bottom 1"
+msgstr ""
+
+#: themes/twentysixteen/functions.php:168
+#: themes/twentysixteen/functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+
+#: themes/twentysixteen/functions.php:176
+msgid "Content Bottom 2"
+msgstr ""
+
+#: themes/twentysixteen/header.php:47
+msgid "Menu"
+msgstr ""
+
+#: themes/twentysixteen/image.php:84
+#: themes/twentysixteen/template-parts/content-page.php:37
+#: themes/twentysixteen/template-parts/content-search.php:28
+#: themes/twentysixteen/template-parts/content-search.php:43
+#: themes/twentysixteen/template-parts/content-single.php:45
+#: themes/twentysixteen/template-parts/content.php:49
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: themes/twentysixteen/inc/back-compat.php:41
+#: themes/twentysixteen/inc/back-compat.php:53
+#: themes/twentysixteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: themes/twentysixteen/inc/customizer.php:145
+msgid "Page Background Color"
+msgstr ""
+
+#: themes/twentysixteen/inc/customizer.php:160
+msgid "Link Color"
+msgstr ""
+
+#: themes/twentysixteen/inc/customizer.php:172
+msgid "Main Text Color"
+msgstr ""
+
+#: themes/twentysixteen/inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr ""
+
+#: themes/twentysixteen/inc/customizer.php:273
+msgid "Gray"
+msgstr ""
+
+#: themes/twentysixteen/inc/customizer.php:283
+msgid "Red"
+msgstr ""
+
+#: themes/twentysixteen/inc/template-tags.php:184
+#: themes/twentysixteen/template-parts/content.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: themes/twentysixteen/template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
+
+#~ msgid "Value in minute(s)"
+#~ msgstr "Valeur en minute(s) "
