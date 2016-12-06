@@ -6,7 +6,8 @@
 	// Add metaboxes
 	function initialization_metaboxes(){
 
-		add_meta_box( 'id_ma_meta', __( 'Estimation of the reading time', 'reading_time_domain' ), 'metaboxes_function', 'post', 'normal', 'high' );
+		add_meta_box( 'id_ma_meta', __( 'Estimation of the reading time', 'reading_time_domain' ),
+			     'metaboxes_function', 'post', 'normal', 'high' );
 
 	}
 	add_action( 'add_meta_boxes', 'initialization_metaboxes' );
@@ -71,7 +72,8 @@
 				$text = __( 'You will take less than a minute to read the article ', 'reading_time_domain' );
 			}
 			else{
-				$text = __( 'Approximate length of article reading time : ', 'reading_time_domain' ). "<strong>" . $value_time." minutes </strong>";
+				$text = __( 'Approximate length of article reading time : ', 'reading_time_domain' ) . 
+					"<strong>" . $value_time." minutes </strong>";
 			}
 
 		$new_content = "<div class='reading-time'>". $text. "</div>" . $content;
